@@ -1,0 +1,26 @@
+
+0045_0183
+Enzyme,Correct,Double template switching,Single template switching (forward),Single template switching (reverse)
+Taq,29047,0,0,0
+Q5,51262,0,0,1
+Q5,53550,0,0,2
+Phusion,73085,0,0,0
+Deep Vent,67473,126,4,925
+Pfu,67656,0,1,286
+PrimeSTAR GXL,73847,0,0,0
+KOD,55712,6,0,0
+Kapa HiFi,36229,0,0,2
+Deep Vent (exo-),31644,0,0,9
+
+1285_1305
+Enzyme,Correct,Double template switching,Single template switching (forward),Single template switching (reverse)
+Taq,31566,0,0,0
+Q5,51143,0,0,0
+Q5,53197,1,0,0
+Phusion,71609,17,0,0
+Deep Vent,66684,109,3,0
+Pfu,67492,2,0,0
+PrimeSTAR GXL,73653,3,0,0
+KOD,55464,223,1,0
+Kapa HiFi,36185,1,0,0
+Deep Vent (exo-),40651,4,0,0

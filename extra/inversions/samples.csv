@@ -1,0 +1,11 @@
+SampleID,Enzyme,Amplicon,Input,Yield,collectionPathUri,GroupID
+2,Taq,LacZ-2,1.723,4453.3,pacbio_data/00002/Analysis_Results,2
+5,Q5,LacZ-2,1.723,4273.0,pacbio_data/00005/Analysis_Results,5
+6,Q5,LacZ-2,1.723,4273.0,pacbio_data/00006/Analysis_Results,5
+11,Phusion,LacZ-2,1.723,2990.8,pacbio_data/00011/Analysis_Results,11
+14,Deep Vent,LacZ-2,1.723,2172.0,pacbio_data/00014/Analysis_Results,14
+17,Pfu,LacZ-2,1.723,585.3,pacbio_data/00017/Analysis_Results,17
+20,PrimeSTAR GXL,LacZ-2,1.723,4966.7,pacbio_data/00020/Analysis_Results,20
+23,KOD,LacZ-2,1.723,7176.7,pacbio_data/00023/Analysis_Results,23
+26,Kapa HiFi,LacZ-2,1.723,6476.0,pacbio_data/00026/Analysis_Results,26
+29,Deep Vent (exo-),LacZ-2,1.723,1248.0,pacbio_data/00029/Analysis_Results,29

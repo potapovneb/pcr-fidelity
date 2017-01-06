@@ -1,0 +1,50 @@
+SampleID,Enzyme,Amplicon,Input,Yield,collectionPathUri,GroupID
+1,Taq,LacZ-1,1.411,4983.0,pacbio_data/00001/Analysis_Results,1
+2,Taq,LacZ-2,1.723,4453.3,pacbio_data/00002/Analysis_Results,2
+3,Taq,DNA-1,1.457,6628.3,pacbio_data/00003/Analysis_Results,3
+4,Taq,DNA-2,2.039,7336.7,pacbio_data/00004/Analysis_Results,4
+5,Q5,LacZ-2,1.723,4273.0,pacbio_data/00005/Analysis_Results,5
+6,Q5,LacZ-2,1.723,4273.0,pacbio_data/00006/Analysis_Results,5
+7,Q5,DNA-1,1.457,4240.0,pacbio_data/00007/Analysis_Results,7
+8,Q5,DNA-1,1.457,4240.0,pacbio_data/00008/Analysis_Results,7
+9,Q5,DNA-2,2.039,4990.0,pacbio_data/00009/Analysis_Results,9
+10,Q5,DNA-2,2.039,4990.0,pacbio_data/00010/Analysis_Results,9
+11,Phusion,LacZ-2,1.723,2990.8,pacbio_data/00011/Analysis_Results,11
+12,Phusion,DNA-1,2.868,4369.3,pacbio_data/00012/Analysis_Results,12
+13,Phusion,DNA-2,3.731,3962.7,pacbio_data/00013/Analysis_Results,13
+14,Deep Vent,LacZ-2,1.723,2172.0,pacbio_data/00014/Analysis_Results,14
+15,Deep Vent,DNA-1,2.868,4574.7,pacbio_data/00015/Analysis_Results,15
+16,Deep Vent,DNA-2,3.731,4429.3,pacbio_data/00016/Analysis_Results,16
+17,Pfu,LacZ-2,1.723,585.3,pacbio_data/00017/Analysis_Results,17
+18,Pfu,DNA-1,2.868,1314.0,pacbio_data/00018/Analysis_Results,18
+19,Pfu,DNA-2,3.731,1612.0,pacbio_data/00019/Analysis_Results,19
+20,PrimeSTAR GXL,LacZ-2,1.723,4966.7,pacbio_data/00020/Analysis_Results,20
+21,PrimeSTAR GXL,DNA-1,2.868,6288.3,pacbio_data/00021/Analysis_Results,21
+22,PrimeSTAR GXL,DNA-2,3.731,7678.3,pacbio_data/00022/Analysis_Results,22
+23,KOD,LacZ-2,1.723,7176.7,pacbio_data/00023/Analysis_Results,23
+24,KOD,DNA-1,2.868,10211.7,pacbio_data/00024/Analysis_Results,24
+25,KOD,DNA-2,3.731,10756.7,pacbio_data/00025/Analysis_Results,25
+26,Kapa HiFi,LacZ-2,1.723,6476.0,pacbio_data/00026/Analysis_Results,26
+27,Kapa HiFi,DNA-1,1.457,9092.0,pacbio_data/00027/Analysis_Results,27
+28,Kapa HiFi,DNA-2,2.039,11012.0,pacbio_data/00028/Analysis_Results,28
+29,Deep Vent (exo-),LacZ-2,1.723,1248.0,pacbio_data/00029/Analysis_Results,29
+30,Deep Vent (exo-),DNA-1,2.868,2330.0,pacbio_data/00030/Analysis_Results,30
+31,Deep Vent (exo-),DNA-2,3.731,2226.0,pacbio_data/00031/Analysis_Results,31
+32,Taq,DNA-1,3.297,5462.5,pacbio_data/00032/Analysis_Results,32
+33,Taq,DNA-2,3.731,4820.0,pacbio_data/00033/Analysis_Results,33
+34,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00034/Analysis_Results,34
+35,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00035/Analysis_Results,34
+36,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00036/Analysis_Results,34
+37,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00037/Analysis_Results,34
+38,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00038/Analysis_Results,38
+39,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00039/Analysis_Results,38
+40,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00040/Analysis_Results,38
+41,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00041/Analysis_Results,38
+42,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00042/Analysis_Results,42
+43,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00043/Analysis_Results,42
+44,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00044/Analysis_Results,42
+45,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00045/Analysis_Results,42
+46,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00046/Analysis_Results,46
+47,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00047/Analysis_Results,46
+48,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00048/Analysis_Results,46
+49,pWB407,pWB407_BsaAI_SspI,,,pacbio_data/00049/Analysis_Results,46

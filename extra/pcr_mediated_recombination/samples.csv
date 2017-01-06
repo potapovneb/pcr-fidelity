@@ -1,0 +1,3 @@
+SampleID,Enzyme,Amplicon,Input,Yield,collectionPathUri,GroupID
+32,Taq,DNA-1,3.297,5462.5,pacbio_data/00032/Analysis_Results,32
+33,Taq,DNA-2,3.731,4820.0,pacbio_data/00033/Analysis_Results,33
